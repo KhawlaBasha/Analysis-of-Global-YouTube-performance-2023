@@ -22,4 +22,4 @@ YouTube remains one of the largest video-sharing platforms, with millions of con
 - Visualizations and charts illustrating the main results
 ## Dashboard Preview
 
-[YouTube Dashboard](ضعي_الرابط_الذي_نسختِه_هنا)
+[YouTube Dashboard](https://github.com/KhawlaBasha/Analysis-of-Global-YouTube-performance-2023/blob/main/Analysis%20of%20Global%20YouTube%20performance%202023%20Dashboard%20(3).png?raw=true)
