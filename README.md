@@ -20,3 +20,6 @@ YouTube remains one of the largest video-sharing platforms, with millions of con
 ## Project Attachments
 - Excel files are used for data cleaning and analysis.
 - Visualizations and charts illustrating the main results
+## Dashboard Preview
+
+[YouTube Dashboard](ضعي_الرابط_الذي_نسختِه_هنا)
